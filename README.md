@@ -41,6 +41,8 @@ Aqui, para a nossa busca heurítica, escolhemos um algoritmo que adicionava na r
 
  Repetimos o uso do google maps para gerar a rota, e obtivemos um resultado bem mais satisfatório. ![map no maps da busca heurística](https://github.com/user-attachments/assets/f302ea30-4085-4187-bc4e-b15c2bc705b6)
 
+Agradecimento à professora pelo conhecimento e oportunidade.
+
  # Membros do grupo
 
 Angela Patricia Mestas Muñante
